@@ -1,4 +1,4 @@
-# Taller de Redes neuronales
+# Taller 5 Redes neuronales
 
 ### Presentado por:
 - **Ángel Rivera Amortegui**
