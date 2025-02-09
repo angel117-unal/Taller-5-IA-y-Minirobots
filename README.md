@@ -11,8 +11,10 @@ Archivo: [reconocLetras.ipynb](./reconocLetras.ipynb)
 Descripción:  Este código realiza un análisis exploratorio y un modelo de clasificación utilizando el famoso dataset Iris. Primero, lee las descripciones del archivo iris.names para entender el contexto del conjunto de datos. Luego, analiza las estadísticas descriptivas del dataset y visualiza las distribuciones con un gráfico de pares coloreado por clase. Posteriormente, divide los datos en características y etiquetas, normaliza las clases con LabelEncoder y crea una red neuronal con Keras. La red, diseñada para clasificar las tres especies de iris, se entrena con un conjunto de datos dividido en entrenamiento y prueba, usando sparse_categorical_crossentropy como función de pérdida y el optimizador adam.
 
 ## **Punto 2: 100 imágenes de perros y 100 imágenes de gatos.**
-Archivo:
-Descripción: 
+Archivo: [clasificacionPerrosGatos.ipynb](./clasificacionPerrosGatos.ipynb)
+Archivo: [modeloClasificador.keras](./modeloClasificador.keras)
+
+Descripción:  Este código realiza un análisis exploratorio y un modelo de clasificación utilizando el famoso dataset Iris. Primero, lee las descripciones del archivo iris.name
 ---
 
 
