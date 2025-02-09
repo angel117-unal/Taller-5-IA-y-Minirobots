@@ -14,9 +14,7 @@ Descripción:  Este código realiza un análisis exploratorio y un modelo de cla
 Archivo: [clasificacionPerrosGatos.ipynb](./clasificacionPerrosGatos.ipynb)
 Archivo: [modeloClasificador.keras](./modeloClasificador.keras)
 
-Descripción:  Este código realiza un análisis exploratorio y un modelo de clasificación utilizando el famoso dataset Iris. Primero, lee las descripciones del archivo iris.name
----
-
+Descripción:  Este ejercicio consiste en desarrollar un modelo de clasificación de imágenes para distinguir entre perros y gatos utilizando redes neuronales convolucionales (CNN). El proceso incluye la creación de un dataset, el preprocesamiento de las imágenes, la construcción y entrenamiento del modelo, y la evaluación de su rendimiento.Se recolectaron  100 imágenes de perros y 100 imágenes de gatos. Luego se normalizaron las imágenes y se dividieron el dataset en conjuntos de entrenamiento, validación y prueba. Después se diseñó una red neuronal convolucional para clasificar las imágenesy se entrenó el modelo con el dataset y evaluar su precisión, y por último se guardó el modelo entrenado para su uso futuro.
 
 ## **Punto 3:Diseño de una red neuronal **
 Archivo: [Diseño_red_neuronal_Iris.ipynb](./Diseño_red_neuronal_Iris.ipynb)
