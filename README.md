@@ -27,4 +27,4 @@ Descripción: Este código implementa una red neuronal artificial (NNA) desde ce
 El código incluye datos de entrenamiento que representan letras (A, E, I, O, U) en forma de matrices binarias y sus salidas deseadas codificadas. Finalmente, se entrena la red para reconocer estas entradas, mostrando la evolución del error durante el proceso y verificando la precisión de la salida entrenada.
 
 ### Notas adicionales:
-Este repositorio contiene la resolución detallada de los puntos del taller 3 sobre algoritmos genéticos. Cada programa ha sido documentado con descripciones claras para facilitar su comprensión y replicación.
+Este repositorio contiene la resolución detallada de los puntos del taller 5 sobre redes neuronales. Cada programa ha sido documentado con descripciones claras para facilitar su comprensión y replicación.
